@@ -13,20 +13,20 @@ The application source lives in the [`client`](C:\Users\USER\Desktop\Projects\Po
 
 ### Desktop View
 
-![Portfolio Screenshot](app\public\projects\screenshots\Screenshot1.png)
-![Portfolio Screenshot](app\public\projects\screenshots\Screenshot2.png)
-![Portfolio Screenshot](app\public\projects\screenshots\Screenshot3.png)
-![Portfolio Screenshot](app\public\projects\screenshots\Screenshot4.png)
-![Portfolio Screenshot](app\public\projects\screenshots\Screenshot5.png)
-![Portfolio Screenshot](app\public\projects\screenshots\Screenshot6.png)
-![Portfolio Screenshot](app\public\projects\screenshots\Screenshot7.png)
+![Portfolio Screenshot](.\app\public\projects\screenshots\Screenshot1.png)
+![Portfolio Screenshot](.app\public\projects\screenshots\Screenshot2.png)
+![Portfolio Screenshot](.app\public\projects\screenshots\Screenshot3.png)
+![Portfolio Screenshot](.app\public\projects\screenshots\Screenshot4.png)
+![Portfolio Screenshot](.app\public\projects\screenshots\Screenshot5.png)
+![Portfolio Screenshot](.app\public\projects\screenshots\Screenshot6.png)
+![Portfolio Screenshot](.app\public\projects\screenshots\Screenshot7.png)
 
 ### Mobile View 
 
-![Portfolio Screenshot](app\public\projects\screenshots\Screenshot8.png)
-![Portfolio Screenshot](app\public\projects\screenshots\Screenshot9.png)
-![Portfolio Screenshot](app\public\projects\screenshots\Screenshot10.png)
-![Portfolio Screenshot](app\public\projects\screenshots\Screenshot11.png)
+![Portfolio Screenshot](.app\public\projects\screenshots\Screenshot8.png)
+![Portfolio Screenshot](.app\public\projects\screenshots\Screenshot9.png)
+![Portfolio Screenshot](.app\public\projects\screenshots\Screenshot10.png)
+![Portfolio Screenshot](.app\public\projects\screenshots\Screenshot11.png)
 
 ## Tech Stack
 
