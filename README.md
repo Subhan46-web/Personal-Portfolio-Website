@@ -6,7 +6,7 @@ A modern personal portfolio website built with React, TypeScript, Vite, and Tail
 
 This project showcases Subhan Raza's front-end development work, experience, services, and contact information in a clean, recruiter-friendly layout.
 
-The application source lives in the [`client`](C:\Users\USER\Desktop\Projects\Portfolio Website\client) directory.
+The application source lives in the [`app`](C:\Users\USER\Desktop\Projects\Portfolio Website\app) directory.
 
 
 ## Preview
