@@ -1,0 +1,9 @@
+.codex-temp/
+node_modules/
+dist/
+dist-ssr/
+*.log
+*.local
+.DS_Store
+.idea/
+.vscode/
