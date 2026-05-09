@@ -64,7 +64,7 @@ export const projects: Project[] = [
     description:
       'A responsive member and schedule management interface with dashboard-style UX for fitness businesses.',
     tech: ['JavaScript', 'HTML', 'CSS', 'Responsive Design'],
-    liveUrl: 'https://github.com/Subhan46-web/gym-management-site',
+    liveUrl: 'https://gym-management-site.vercel.app',
     githubUrl: 'https://github.com/Subhan46-web/gym-management-site',
     category: 'Dashboard',
     year: '2024',
@@ -78,7 +78,7 @@ export const projects: Project[] = [
     description:
       'A polished storefront UI focused on browsing, category discovery, and a clean shopping experience.',
     tech: ['HTML', 'CSS', 'JavaScript', 'Responsive Design'],
-    liveUrl: 'https://github.com/Subhan46-web/ecommerce-website',
+    liveUrl: 'https://ecommerce-website-blue-nine.vercel.app/',
     githubUrl: 'https://github.com/Subhan46-web/ecommerce-website',
     category: 'Web app',
     year: '2023',

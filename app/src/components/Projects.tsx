@@ -108,7 +108,7 @@ export default function Projects() {
             <ProjectPreview
               accent={currentMobileProject.accent}
               title={currentMobileProject.category}
-              href={currentMobileProject.githubUrl}
+              href={currentMobileProject.liveUrl}
               image={currentMobileProject.image}
               imageAlt={currentMobileProject.imageAlt}
               imagePosition={currentMobileProject.imagePosition}
@@ -169,7 +169,7 @@ export default function Projects() {
               <ProjectPreview
                 accent={project.accent}
                 title={project.category}
-                href={project.githubUrl}
+                href={project.liveUrl}
                 image={project.image}
                 imageAlt={project.imageAlt}
                 imagePosition={project.imagePosition}
@@ -215,7 +215,7 @@ export default function Projects() {
                       <ProjectPreview
                         accent={project.accent}
                         title={project.category}
-                        href={project.githubUrl}
+                        href={project.liveUrl}
                         image={project.image}
                         imageAlt={project.imageAlt}
                         imagePosition={project.imagePosition}
